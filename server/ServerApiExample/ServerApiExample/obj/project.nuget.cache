@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrzrNfaWPnEBUTXUPsr4Z2pOPZLb7ongwW1m141pFTo1u0oFg/Wjw7rgjmOiVOQqhtsSvpUpGUWfMptAW/iGKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruveyda.cetin\\Desktop\\DevNot\\rabbitmq-signalr\\server\\ServerApiExample\\ServerApiExample\\ServerApiExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
